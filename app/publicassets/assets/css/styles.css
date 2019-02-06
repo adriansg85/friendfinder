@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Fahkwang');
+
+.container {
+    margin-top: 30px;
+}
+
+.jumbotron {
+    color: rgb(240, 240, 240);
+    background-image: url('../images/football.jpg');
+    font-family: 'Fahkwang', sans-serif;
+}
+
+.match-img {
+    width: 100%;
+}

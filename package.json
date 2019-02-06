@@ -1,0 +1,31 @@
+{
+  "name": "friendfinder",
+  "version": "1.0.0",
+  "description": "Adrian's Friend Finder Application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriansg85/friendfinder.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "friendfinder"
+  ],
+  "author": "Adrian Salinas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adriansg85/friendfinder/issues"
+  },
+  "homepage": "https://github.com/adriansg85/friendfinder#readme",
+  "dependencies": {
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9",
+    "path": "^0.12.7"
+  }
+}
